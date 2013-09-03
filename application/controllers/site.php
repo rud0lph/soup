@@ -9,3 +9,4 @@ class Site extends CI_Controller {
 	 	$this->load->model('site_model');
 	    $this->load->view('home');
 	}
+}
